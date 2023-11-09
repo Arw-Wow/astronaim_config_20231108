@@ -8,3 +8,9 @@ for arch linux on USB disk
 - adding new colorscheme
 - setting options
 - ...
+
+## How to use my configuration
+
+1. install nvim
+2. git clone AstroNvim in ~/.config/nvim
+3. git clone this repo as ~/.config/nvim/lua/user
